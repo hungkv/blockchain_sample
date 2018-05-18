@@ -12,5 +12,5 @@ class BlockChain {
     return block;
   }
 }
-
+// Add function validate block 
 module.exports = BlockChain;
